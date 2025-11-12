@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "ALS-PT19-315C/L177/TR8 ")
 	(property "Reference" "REF**"
-		(at 0 0 0)
+		(at 0.5 0 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "f62b999e-17af-4d6f-98f1-807e0e6de315")
@@ -516,38 +516,6 @@
 		(size 0.5525 0.889)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "04c1a258-b896-409d-b479-7f7a35456f19")
-	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layer "F.Cu")
-		(uuid "4076c754-389f-4c01-abdd-2e5fa36c505c")
-		(hatch full 0.508)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.254)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks not_allowed)
-			(vias not_allowed)
-			(pads allowed)
-			(copperpour not_allowed)
-			(footprints allowed)
-		)
-		(placement
-			(enabled no)
-			(sheetname "")
-		)
-		(fill
-			(thermal_gap 0.508)
-			(thermal_bridge_width 0.508)
-		)
-		(polygon
-			(pts
-				(xy -0.3492 -0.4445) (xy 0.3492 -0.4445) (xy 0.3492 0.4445) (xy -0.3492 0.4445)
-			)
-		)
 	)
 	(embedded_fonts no)
 )
