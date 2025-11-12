@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PicShift_CameraSensor")(type "KiCad")(uri "${KIPRJMOD}/PicShift_CameraSensor.kicad_sym")(options "")(descr ""))
+)
