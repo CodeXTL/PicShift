@@ -259,4 +259,15 @@
 		(uuid "04c1a258-b896-409d-b479-7f7a35456f19")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/models/LED_77TR8_EVE.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
